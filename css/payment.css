@@ -1,0 +1,34 @@
+.col-md-12 {
+    background: #F6EB13;
+    height: 430px;
+}
+
+.pay {
+    padding-top: 20px;
+    font-family: Poppins;
+    font-size: 54px;
+    font-weight: bolder ;
+    color: #707070;
+}
+
+.ment {
+    font-family: Poppins;
+    font-size: 30px ;
+    font-weight: normal;
+    color: #707070 ;
+}
+
+form {
+    padding-top: 80px;
+}
+
+
+form input{
+    font-family: poppins;
+    font-size: 30;
+    font-weight: normal;
+    color: #707070 ;
+    background: #F6EB13 !important;
+    justify-content: center !important;
+    margin-bottom: 35px;
+}

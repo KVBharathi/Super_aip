@@ -1,0 +1,194 @@
+button{
+    width: 124px;
+    height: 40px;
+    background-color: #F6EB13;
+    border: hidden;
+    border-radius: 80px;
+    font-weight: bolder !important;
+    font-size: 14px !important;
+    color: #707070 !important;
+    font-family: Montserrat !important;
+    margin-bottom: 10px !important;
+    
+
+}
+
+/* .flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  .container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+  
+  width: 350px;
+  height: 400px;
+  margin: 20px;
+  border-radius: 50px;
+}
+
+.card h1 {
+  font-weight: bold; 
+  font-size: 45px
+}
+.card a {
+  background-color:#ffD428 ;
+  color: black;
+  padding: 10px 20px;
+  display: block;
+  margin: 20px 50px;
+  border-radius: 40px 40px 40px 40px;
+  font-size: 40px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 120px;
+}
+
+background: rgba(218, 221, 19, 0.589);
+    background-repeat: no-repeat;
+    background-size: 240px 270px;
+.card:hover {
+  background-color: rgb(112, 112, 112);
+  color: white;
+  cursor: pointer;
+  transform: scale(1.03);
+  transition: all 1s ease;
+} */
+
+#cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    
+    width: 221px;
+    height:auto !important;
+    margin: 20px;
+    
+ 
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+#yellow_bg{
+    background: #f5f19d; 
+    height: 223px; 
+    margin-bottom: 20px"
+}
+
+#blue_bg{
+    background: #E8EFF7; 
+    height: 223px; 
+    margin-bottom: 20px"
+}
+
+.card-head i {
+    
+    font-size: 45px;
+    margin-left: 85px;
+    margin-top: 50px;
+    color: #73a1c2;
+}
+
+#product{
+    padding-top: 55px;
+    margin-left: 65px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #186aa5;
+    font-family: Montserrat;
+}
+
+#para {
+                font-size: 20px;
+                font-weight: bold;
+                color: #186aa5;
+                font-family: Montserrat;
+                padding-top: 10px;
+}
+
+#category {
+              padding-top: 8px;
+              padding-left: 95px;
+              font-size: 8px;
+              font-weight: medium;
+              color: #186aa5;
+              font-family: Montserrat;
+           
+}
+
+.section {
+ 
+  background: #f6eb13;
+  overflow-x: hidden;
+  padding: 4vmin 10vmin;
+}
+
+.container-fluid i{
+  color: black;
+  width: 40px;
+}
+
+.container-fluid p{
+    text-align: left ;
+}
+
+ 
+.container-fluid .col-md-5 p {
+  font-size: 35px;
+  font-weight: bold;
+  color: #186AA5;
+  font-family: Montserrat;
+  padding-top: 15px;
+  text-align: center;
+}
+
+/* .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+} */
+
+#information {
+                font-size: 20px;
+                font-weight: bold;
+                color: #186aa5;
+                font-family: Montserrat;
+                padding-top: 20px;
+                
+}
+
+.dot {
+  height: 130px;
+  width: 132px;
+  background-color: #186AA5;
+  border-radius: 50%;
+  display: block;
+  margin-top: 30px !important;
+  margin: auto;
+  background-image:url(../assets/get-money_jy@2x.png) ;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 85px 85px;
+  position: relative;
+}
+
+
